@@ -1,4 +1,4 @@
-<h1>CEH Lab 20</h1>
+<h1>Cryptography - CEH</h1>
 
 
 ![Image Alt](https://github.com/DannyRRios/CEH-Lab-20/blob/993b478214480e3ba13e02e7430091b420aa26dc/Lab20-1.png)
